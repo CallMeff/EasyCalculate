@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="EasyCalculate:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="EasyCalculate.war">
+      <element id="artifact" artifact-name="EasyCalculate:war exploded" />
+    </root>
+  </artifact>
+</component>
