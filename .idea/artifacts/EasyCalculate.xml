@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="EasyCalculate">
+    <output-path>$PROJECT_DIR$/out/artifacts/EasyCalculate</output-path>
+    <root id="archive" name="EasyCalculate.war" />
+  </artifact>
+</component>
