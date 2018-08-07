@@ -8,7 +8,7 @@ public class CalculateProfit {
     private double years;//年限
 
     public CalculateProfit(double amount, double interest, double years) {
-        this.years = years;
+        this.years = years - 1;
         this.amount = amount;
         this.interest = interest;
     }
